@@ -1,0 +1,21 @@
+{
+    "name": "noicode/simple-framework",
+    "description": "A Simple Framework",
+    "keywords": ["framework", "simple"],
+    "homepage": "https://github.com/NoicodeDev/simple-framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Chugunov",
+            "email": "noicode.dev@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "noicode.dev@gmail.com"
+    },
+    "autoload": {
+        "psr-4": {
+            "SF\\": "src/"
+        }
+    }
+}
